@@ -8,7 +8,7 @@ Disaster verification is done by either:
   
 - A trusted **oracle** (e.g., Chainlink external data feed).
 - A decentralized **DAO vote** (or designated multisig wallet).
- 
+    
 ## 🎯 Why?
 
 Disasters strike without warning. Traditional relief fund disbursements often face:
