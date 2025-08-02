@@ -5,7 +5,7 @@
 This smart contract enables anyone to **donate ETH** to a pool that automatically distributes funds to **verified victims or charities** when a **natural disaster** is confirmed.
 
 Disaster verification is done by either:
-
+ 
 - A trusted **oracle** (e.g., Chainlink external data feed).
 - A decentralized **DAO vote** (or designated multisig wallet).
 
